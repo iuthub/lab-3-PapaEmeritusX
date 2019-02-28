@@ -1,0 +1,33 @@
+
+div#wrapper {
+	border: 10px white solid;
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+div#header {
+	text-align: right;
+	background-color: #A8F0F0;
+}
+div#header h2 {
+	font-size: 14pt;
+}
+img {
+	float: right;
+}
+div.article {
+	overflow: auto;
+	clear: right;
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	margin-top: 10px;
+	padding: 5px; 
+}
+span.date {
+	border-bottom: 2px blue dashed;
+}
+body {
+	background-image: url(images/Capture.PNG);
+}
